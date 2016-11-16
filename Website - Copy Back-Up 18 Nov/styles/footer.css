@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+footer {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+footer h4 {
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 1rem;
+	color: #16a085;
+}
+
+footer h4 a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 1rem;
+	color: #16a085;
+}
+
+footer p {
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 0.9rem;
+	color: #16a085;
+}
+
+.footer1 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
